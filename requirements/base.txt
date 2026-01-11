@@ -1,5 +1,5 @@
 pandas==2.2.2
-numpy==1.26.4
+numpy==2.1.2
 matplotlib==3.10.1
 seaborn==0.13.2
 adjusttext==1.3.0
